@@ -1,6 +1,6 @@
 # 🌱 Eva Lambert 👩‍💻 Creative developer en devenir
 
-Helloow ! Je m'appelle Eva, je suis graphiste et web développeuse en devenir 🎨 Actuellement en formation "Web Developer Junior" chez BeCode Bruxelles, je souhaite développer mes compétences pour pouvoir mener à bien des projets de sites ambitieux 🔥 et proposer mes services à une entreprise.
+Helloow ! Je m'appelle Eva, je suis graphiste et futur web développeuse 🎨 Actuellement en formation "Web Developer Junior" chez BeCode Bruxelles, je souhaite développer mes compétences pour pouvoir mener à bien des projets de sites ambitieux 🔥 et proposer mes services à une entreprise.
 
 ## 🤹‍♀️ Compétences surprenantes
 - Chante au sein d'une chorale polyphonique traditionnel

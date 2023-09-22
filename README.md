@@ -1,50 +1,31 @@
-# MARKDOWN
+# 🌱 Eva Lambert 👩‍💻 Full Stack Developer en devenir
 
-## LIST
+Helloow ! Je m'appelle Eva, je suis graphiste et web développeuse en devenir 🎨 Actuellement en formation "Web Developer Junior" chez BeCode Bruxelles, je souhaite développer mes compétences pour pouvoir mener à bien des projets de sites ambitieux 🔥 et proposer mes services à une entreprise.
 
-### UNORDERED LIST
-* Element 1 
-* Element 2
-* Element 3
+## 🤹‍♀️ Compétences surprenantes
+- Chante au sein d'une chorale polyphonique traditionnel
+- Un côté Mike Gyver (astuce) dans la vie de tous les jours 
+- Capable de faire de très très belles grimaces
 
-### LIST WITHIN A LIST
-* Element 1 
-    * Element 1.1 
-    * Element 1.2
-* Element 2
-    * Element 2.1
-* Element 3
+## 💖 Ce que je préfère sur cette terre 
+- Mon amoureux, of course…
+- Découvrir ! Apprendre ! Évoluer ! Toujours ! Toujours !
+- Le mouvement, j'aime quand ça bouge !
 
-### ORDERED LIST
-1. Element 
-2. Element 
-3. Element
+## 🔥 Les objectifs que je souhaite atteindre chez BeCode
+- Sortir de ma zone de confort
+- Acquérir une technique solide 
+- Profiter de l'énergie de groupe pour découvrir de nouveaux process 
+- Augmenter ma productivité 
+- Devenir Front-end developer et pourquoi pas Full Stack Dev
 
-## TITLE 
-# Title level 1 
-## Title level 2
-### Title level 3
+## 😱 Mes peurs 
+- Que la machine à café tombe en panne !
 
-## LINK
-[Lien](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) Syntaxe de base pour l’écriture et la mise en forme
+## 🐎 Ce que j'attends avec impatience 
+- Débuter JavaScript pour animer des sites et tester des trucs foufou
 
-[Lien](https://medium.com/becode/comment-faire-un-readme-sur-github-cc11f3df606a) Comment faire un readme sur GitHub
-
-## IMG 
-![Greta Oto, papillon aux ailes transparentes](https://upload.wikimedia.org/wikipedia/commons/7/71/Greta_oto_%28Glasswing_sp.%29_captive_-_Flickr_-_S._Rae_%281%29.jpg)
-
-## GIF
-![chat panier et papillon](https://i.pinimg.com/originals/8c/0b/70/8c0b706521d9adec70cadfcb07d28b6c.gif)
-
-## CODE
-
-### INLINE
-Use `git status` to list all new or modified files that haven't yet been committed.
-
-### BLOC
-```
-git status
-git add
-git commit
-```
-
+## 👉👈 3 valeurs que j'apprécie dans le travail en équipe
+- Collaboration
+- Communication
+- Bonne humeur 

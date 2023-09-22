@@ -10,4 +10,4 @@
 
 - 🧩 Une fois arrivés, les paquets sont assemblés pour afficher des pages web ou des messages 
 
-- 🌐 Internet est un réseau complexe de routes secrètes, d'ordinateurs et de routeurs qui travaillent ensemble pour nous permettre de réaliser des activités en ligne 🏷🏷
+- 🌐 Internet est un réseau complexe de routes secrètes, d'ordinateurs et de routeurs qui travaillent ensemble pour nous permettre de réaliser des activités en ligne
